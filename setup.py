@@ -12,7 +12,7 @@ setup_args = dict(
     url = 'https://www.example.com/',
     author = 'Gabriele Mattioli',
     author_email = 'gabrymattioli@gmail.com',
-    license = 'BSD-3-Clause', 
+    license = 'MIT', 
     keywords= ['Table', 'Magictable'],
     download_url='https://pypi.org/project/django-magic-tables/0.1/',
 )

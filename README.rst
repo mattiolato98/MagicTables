@@ -9,7 +9,7 @@ Detailed documentation is in the "docs" directory.
 Quick start
 -----------
 
-1. Add "magic_talbes" to your INSTALLED_APPS setting like this::
+1. Add "magic_talbes" to your INSTALLED_APPS setting like this:
 
     INSTALLED_APPS = [
         ...
