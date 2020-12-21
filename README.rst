@@ -86,8 +86,8 @@ Use it with Datatable
             } );
         </script>
     
-    - Pass "data-table" as second parameter to the table tag like this:
+- Pass "data-table" as second parameter to the table tag like this:
 
-        ::
+    ::
 
-            {% table object_list "data-table" %}
+        {% table object_list "data-table" %}
