@@ -5,7 +5,7 @@ with open('README.rst') as readme_file:
 
 setup_args = dict(
     name = 'django-magic-tables',
-    version = '0.3.1',
+    version = '0.3.1.2',
     description = 'A Django app to turn easily QuerySets into tables',
     long_description_content_type= 'text/markdown',
     long_description = README,
@@ -15,7 +15,7 @@ setup_args = dict(
     license = 'MIT', 
     packages=find_packages(),
     keywords= ['Table', 'Magictable'],
-    download_url='https://pypi.org/project/django-magic-tables/0.1/',
+    download_url='https://pypi.org/project/django-magic-tables/',
 )
 
 if __name__ == "__main__":
