@@ -5,7 +5,7 @@ with open('README.rst') as readme_file:
 
 setup_args = dict(
     name = 'django-magic-tables',
-    version = '0.3.3.1',
+    version = '0.3.3.3',
     description = 'A Django app to turn easily QuerySets into tables',
     long_description_content_type= 'text/markdown',
     long_description = README,

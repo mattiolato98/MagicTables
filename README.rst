@@ -13,7 +13,7 @@ Quick start
 
     ::
         
-        $ pip install django-magic-tables'
+        $ pip install django-magic-tables
 
 
 - Add "magic_tables" to your INSTALLED_APPS setting like this:
