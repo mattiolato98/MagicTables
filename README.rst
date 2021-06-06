@@ -4,8 +4,6 @@ Magic Tables
 
 Magic Tables is a Django app to turn QuerySets into any kind of table.
 
-Detailed documentation is in the "docs" directory.
-
 Quick start
 -----------
 
